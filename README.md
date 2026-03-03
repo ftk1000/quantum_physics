@@ -20,12 +20,13 @@
   * [Differential equations, a tourist's guide | DE1](https://youtu.be/p_di4Zn4wz4?si=eXXA3cb3geghU2u-)
   * [But what is a partial differential equation? | DE2](https://youtu.be/ly4S0oi3Yz8?si=KVwvuX0-59JFxlZz)
   * [Solving the heat equation | DE3](https://youtu.be/ToIXSwZ1pJU?si=-eWcCVyQJkq-7caj)
-* [Solving PDEs with the Laplace Transform: The Wave Equation](https://youtu.be/lG9NOHMy3YU?si=3e1qFInWwqFeO-PH)
 * [Solving PDEs with the Laplace Transform: The Heat Equation](https://youtu.be/xuBJFSh6Bu4?si=tJXbONS2w0IgVVNC)
-* [The Wave Equation and Slack Line Physics](https://youtu.be/WR7z2bdY7Ko?si=iYrghQuo2DrTDlhk)
-* [The Method of Characteristics and the Wave Equation](https://youtu.be/eI2x99SxJgU?si=QdwUsU8brnGSbGPM)
-* [Solving the Wave Equation with Separation of Variables... and Guitar Str...](https://youtu.be/ywrgWRSQ3PY?si=CzHzfBEzy4wI5KiN)
+### The Wave Eq
 * [Deriving the Wave Equation](https://youtu.be/UXqUXYaRyGU?si=kp-vvWn3zNM4qRBC)
+* [Solving the Wave Equation with Separation of Variables... and Guitar Str...](https://youtu.be/ywrgWRSQ3PY?si=CzHzfBEzy4wI5KiN)
+* [The Method of Characteristics and the Wave Equation](https://youtu.be/eI2x99SxJgU?si=QdwUsU8brnGSbGPM)
+* [The Wave Equation and Slack Line Physics](https://youtu.be/WR7z2bdY7Ko?si=iYrghQuo2DrTDlhk)
+* [Solving PDEs with the Laplace Transform: The Wave Equation](https://youtu.be/lG9NOHMy3YU?si=3e1qFInWwqFeO-PH)
 * 
 
 
