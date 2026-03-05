@@ -3,6 +3,11 @@
 * 
 2026.03.02
 
+# PDEs
+* commutant - [PDE 5 | Method of characteristics](https://youtu.be/tNP286WZw3o?si=RMBJ2NfkDUR0pL6G)
+  * x(t) movable observer
+  * u(s,x) - how does u change from the point of view of x(t) 
+
 ## Schrödinger's equation
 
 ### [Abide By Reason](https://www.youtube.com/@AbideByReason)
