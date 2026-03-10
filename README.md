@@ -1,6 +1,6 @@
 # quantum_physics
 * https://github.com/ftk1000/quantum_phys/edit/main/duality.md
-* 
+* [Строение атома. Квантовая мех- СССР](https://youtube.com/shorts/Ml4sZt4TFow?si=ttOwX-ZjfmBKX7SH)
 2026.03.02
 
 # PDEs
